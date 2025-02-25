@@ -1,14 +1,10 @@
-# 💫About Me :
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Tiêu đề -->
+<h2 align="center">Hi 👋, I'm Nguyen Thiet Duy Dan</h2>
+<h3 align="center">A Full-Stack WebDeveloper from VietNam</h3>
 
-## 🌐Socials
+<p align="center">
+  
+  ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyenthietduydan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguyenthietduydan/) 
 
 # 💻Tech Stack
@@ -29,3 +25,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nguyenduydan&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
+
