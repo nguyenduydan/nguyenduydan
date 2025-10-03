@@ -1,6 +1,6 @@
 <!-- Tiêu đề -->
 <h2 align="center">Hi 👋, I'm Nguyen Thiet Duy Dan</h2>
-<h3 align="center">A Full-Stack WebDeveloper from VietNam</h3>
+<h3 align="center">A Web Developer from VietNam</h3>
 
 <div align="center">
   
