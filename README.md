@@ -1,6 +1,6 @@
 <!-- Header với Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Thiết%20Duy%20Đan&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Laravel%20%7C%20NodeJS%20%7C%20NestJS&descSize=16&descAlignY=51" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Thiết%20Duy%20Đan&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&descSize=16&descAlignY=51" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
@@ -12,13 +12,13 @@
 </p>
 
 <!-- Avatar -->
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github.com/nguyenduydan.png"
     width="150"
     style="border-radius:50%; border:4px solid #179FA3;"
   />
-</p>
+</p> -->
 
 
 ---
