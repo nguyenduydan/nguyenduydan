@@ -30,8 +30,8 @@
 - 👤 **Name:** Nguyễn Thiết Duy Đan  
 - 🧩 **Nickname:** Fog  
 - 📍 **Location:** Vietnam 🇻🇳  
-- 💼 **Role:** Backend Developer  
-- 🎯 **Focus:** Scalable systems, clean architecture, secure APIs  
+- 💼 **Role:** FullStack Developer  
+- 🎯 **Focus:** Scalable systems, clean architecture, secure APIs, AI prompt  
 - 💡 **Mindset:** Build reliable systems before building fancy features  
 
 <br clear="right"/>
